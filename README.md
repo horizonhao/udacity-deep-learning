@@ -20,6 +20,8 @@ Accessing the Notebooks
 On linux, go to: http://127.0.0.1:8888
 
 On mac, go to: http://localhost:8888
+
+
 -----------------------
 
 This repo is just to share some hints for all these fundermental practice of deep learning, please be informed that it's really necessary to understand all the models and do more practice!
